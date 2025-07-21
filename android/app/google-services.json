@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029275813190",
+    "project_id": "tnsnacks",
+    "storage_bucket": "tnsnacks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029275813190:android:983b1f654d471b17f41147",
+        "android_client_info": {
+          "package_name": "com.example.tn70snacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9g4cm9bBPUeKOLE8lWNJbkMIHtYCU1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
